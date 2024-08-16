@@ -244,4 +244,4 @@ Here's a comprehensive list of AI tools:
 
 ---
 
-This comprehensive list covers a wide range of AI tools across different categorie.
+This comprehensive list covers a wide range of AI tools across different categories.
